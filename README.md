@@ -2,22 +2,3 @@
 
 Python DSA practice repository.  
 Keeping it simple and modular as I progress.
-
-## 📂 Current Structure
-
-<pre>
-Python-DSA/
-│
-└── Arrays-and-Strings/
-    └── kadane.py
-</pre>
-
-## Run
-
-```bash
-# Go into the repo
-cd Python-DSA
-
-# Run any algorithm file
-python Arrays-and-Strings/kadane.py
-

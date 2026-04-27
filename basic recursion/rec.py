@@ -18,6 +18,7 @@ def ntoOne(n):
     print(n, end=' ')
     ntoOne(n-1)
 
+
 recursion(3)
 onetoN(1,10)
 ntoOne(6)
